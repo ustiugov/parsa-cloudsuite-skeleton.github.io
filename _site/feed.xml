@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CloudSuite</title>
-    <description>CloudSuite is awesome. If you don&#39;t believe us, we don&#39;t care anyway.
+    <description>CloudSuite is awesome.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 04 Nov 2015 17:21:48 +0100</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2015 17:21:48 +0100</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2015 19:32:50 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2015 19:32:50 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
